@@ -1,0 +1,12 @@
+num=float(input("enter a number:")
+if(num>0):
+    Print ("positive number")
+Else:
+    Print ("negative number")
+
+Output:
+enter a number:10
+Positive number
+Else
+enter a number:-2
+Negative number
